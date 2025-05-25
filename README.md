@@ -11,10 +11,10 @@ I'm a junior developer transitioning from 9 years of team leadership into tech. 
 - Real-world projects that help people
 
 ## 🌱 Currently Learning
-![Python]
-![SQL]
-![Git]
-![VSCode]
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
@@ -24,8 +24,8 @@ I'm a junior developer transitioning from 9 years of team leadership into tech. 
 - Anything that helps me grow and give back
 
 ## 📫 How to Reach Me
-[![LinkedIn]: www.linkedin.com/in/findtristanp
-[![Email]: tristan.tbone.pacheco@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)]: www.linkedin.com/in/findtristanp
+[![Email](https://img.shields.io/badge/-Email-informational?logo=gmail&style=flat)]: tristan.tbone.pacheco@gmail.com
 
 ---
 
