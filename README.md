@@ -24,6 +24,7 @@ I'm a junior developer transitioning into tech after 9 years of team leadership.
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)]: www.linkedin.com/in/findtristanp
+
 [![Email](https://img.shields.io/badge/-Email-informational?logo=gmail&style=flat)]: tristan.tbone.pacheco@gmail.com
 
 ---
