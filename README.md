@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Tristan P.
 
-I'm a junior developer transitioning from 9 years of team leadership into tech. I recently earned my Associate’s Degree in Computer Science and am passionate about backend development, automation, and data analysis.
-
+I'm a junior developer transitioning into tech after 9 years of team leadership. I recently earned an Associate’s Degree in Computer Science, along with certifications in Web Development, Software Development, and Computer Programming Fundamentals. I'm passionate about backend development, automation, and data analysis.
 ---
 
 ## 👀 Interests
