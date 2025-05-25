@@ -33,7 +33,7 @@ I'm a junior developer transitioning from 9 years of team leadership into tech. 
 She / Her
 
 ## ⚡ Fun Fact
-I ran a fast food restaurant for nearly a decade — now I’m automating and analyzing instead of assembling and supervise 
+I am an avid reader with over 800 books in my personal library. 
 ---
 
 ## 📊 GitHub Stats
